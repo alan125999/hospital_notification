@@ -58,16 +58,3 @@ print(doctorStatus)
         "calledNumber": 當前號碼
     }
 '''
-
-{
-        "RoomStatus": 準備中 / 看診中,
-        "deptID": 科別代號,
-        "deptName": 科別名稱,
-        "opdTimeID": (尚未猜到是什麼),
-        "roomID": 診間代號,
-        "roomName": 診間名稱（房號）,
-        "roomLocation": 診間位置（棟別、樓層）,
-        "doctorID": 醫師編號,
-        "doctorName": 醫師姓名,
-        "calledNumber": 當前號碼
-    }
